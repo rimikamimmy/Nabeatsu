@@ -31,6 +31,9 @@ class ViewController: UIViewController {
             return true
         }
         
+        
+        
+        
         // 問題2: 1の位が3かどうか調べる
         if number % 10 == 3 {
             return true
